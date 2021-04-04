@@ -1,0 +1,14 @@
+Package: testepac
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2021-04-04
+Authors@R: 
+    person(given = "Joelmo",
+           family = "Oliveira",
+           role = c("aut", "cre"),
+           email = "joelmo.oliveira@mctic.gov.br",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
